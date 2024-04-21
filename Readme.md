@@ -4,4 +4,5 @@ ScratchAI-Algo is a a collection of AI/ML algorithms written from scratch in num
 
 ## Algorithms
 
-- [KNN](ML-algo/KNN)
+- [KNN](https://github.com/Himasnhu-AT/ScratchML-Algo/tree/main/ML-Algo/KNN)
+- [Logistic Regression](https://github.com/Himasnhu-AT/ScratchML-Algo/tree/main/ML-Algo/LogisticRegression)
