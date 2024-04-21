@@ -4,8 +4,8 @@ ScratchAI-Algo is a a collection of AI/ML algorithms written from scratch in num
 
 > [!IMPORTANT]
 >
-> - This repo is for educational purposes only. The algorithms are implemented in a simple and understandable way, so that beginners can understand the concepts behind the algorithms.
-> - Therefore, The algorithms are not optimized for performance. For optimized and production ready implementations, please use libraries like `scikit-learn`, `tensorflow`, `pytorch`, etc.
+> - This repo is for educational purposes only. The algorithms are implemented simply and understandably so that beginners can understand the concepts behind the algorithms.
+> - Therefore, The algorithms are not optimized for performance. For optimized and production-ready implementations, please use libraries like `scikit-learn`, `tensorflow`, `pytorch`, etc.
 
 > [!NOTE]
 >
@@ -30,7 +30,7 @@ ScratchAI-Algo is a a collection of AI/ML algorithms written from scratch in num
 
 ## Contributing
 
-Contributions are welcome! For bug reports or requests please [submit an issue first](https://github.com/Himasnhu-AT/ScratchML-Algo/)issues
+Contributions are welcome! For bug reports or requests please [submit an issue first](https://github.com/Himasnhu-AT/ScratchML-Algo/issues)
 
 ## License
 
