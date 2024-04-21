@@ -1,4 +1,9 @@
-# Decision tree
+## Decision tree
+
+### Packages used:
+
+- `Numpy`
+- `Pandas`
 
 Decision tree classifier from scratch and includes functions for entropy calculation, information gain, building the decision tree, and making predictions.
 
