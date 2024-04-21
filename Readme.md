@@ -11,3 +11,4 @@ ScratchAI-Algo is a a collection of AI/ML algorithms written from scratch in num
 - [Multiple_Linear_Regression](https://github.com/Himasnhu-AT/ScratchML-Algo/tree/main/ML-Algo/Decision_Trees)
 - [Polynomial_Regression](https://github.com/Himasnhu-AT/ScratchML-Algo/tree/main/ML-Algo/Polynomial_Regression)
 - [Principal_Component_Analysis](https://github.com/Himasnhu-AT/ScratchML-Algo/tree/main/ML-Algo/Principal_Component_Analysis)
+- [SimpleLinearRegression](https://github.com/Himasnhu-AT/ScratchML-Algo/tree/main/ML-Algo/SimpleLinearRegression)
